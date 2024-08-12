@@ -1,6 +1,6 @@
-# C Programming Projects
+# C Programming
 
-Welcome to the C Programming Projects repository! This repository contains a collection of C programs that I have developed while learning and experimenting with the C programming language.
+Welcome to the C Programming repository! This repository contains a collection of C programs that I have developed while learning and experimenting with the C programming language.
 
 ## Introduction
 
