@@ -1,4 +1,4 @@
-// Sum of firs ten natural numbers
+// Sum of first ten natural numbers
 
 #include <stdio.h>
 
